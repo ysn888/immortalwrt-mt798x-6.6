@@ -11,8 +11,8 @@
 #include "mt7981.dtsi"
 
 / {
-	model = "QLB-4Pro";
-	compatible = "QLB,-4Pro", "mediatek,mt7981";
+	model = "olbox -4pro";
+	compatible = "olbox,-4pro", "mediatek,mt7981";
 
 	aliases {
 		led-boot = &red_led;
